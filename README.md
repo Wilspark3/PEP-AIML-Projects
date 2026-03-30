@@ -1,4 +1,4 @@
-# PEP-AIML-Projects
+#AIML-Projects
 
 This repository contains my completed projects for the AIML PEP program.
 The projects cover all three required verticals: Basic Machine Learning,
